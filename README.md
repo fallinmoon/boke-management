@@ -15,11 +15,13 @@ markdown代码
 ---
 （---）表示换行线
 
-**字体加粗
+**字体加粗**
 
+---
 +表示以及列表
 +列表等级
     +二级列表
+---
 python manage.py makemigrations，对模型的更改创建新的迁移表
 
 通过运行 makemigrations 命令，Django 会检测你对模型文件的修改，并且把修改的部分储存为一次迁移。
