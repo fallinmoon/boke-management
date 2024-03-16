@@ -9,7 +9,7 @@ Django 2.2
 markdown代码
 
 ```python
-  表示代码块
+  （```）表示代码块
 ```
 
 python manage.py makemigrations，对模型的更改创建新的迁移表
